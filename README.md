@@ -6,3 +6,4 @@
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 - [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
+- [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
