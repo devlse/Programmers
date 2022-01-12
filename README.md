@@ -15,3 +15,4 @@
 - [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
 - [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
