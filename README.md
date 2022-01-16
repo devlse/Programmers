@@ -18,3 +18,4 @@
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 - [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
 - [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
