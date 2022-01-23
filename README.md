@@ -22,3 +22,4 @@
 - [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
 - [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 - [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
