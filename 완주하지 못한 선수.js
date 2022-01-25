@@ -12,3 +12,12 @@ function solution(participant, completion) {
         }
     }
 }
+
+// 효율성 테스트 점검
+function solution(participant, completion) {
+    completion.forEach(n => {
+      const index = participant.indexOf(n)
+      participant.splice(index, 1)
+    })
+    return participant[0]
+  }
