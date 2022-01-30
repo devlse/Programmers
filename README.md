@@ -26,6 +26,7 @@
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
 - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 
 ## Lv.2
 
