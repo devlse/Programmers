@@ -27,6 +27,7 @@
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
 - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 
 ## Lv.2
 
