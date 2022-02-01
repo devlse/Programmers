@@ -16,7 +16,7 @@
 - [하샤드 수](https://github.com/devlse/Programmers/blob/main/Lv.1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.js)
 - [핸드폰 번호 가리기](https://github.com/devlse/Programmers/blob/main/Lv.1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.js)
 - [완주하지 못한 선수](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)
-- [서울에서 김서방 찾기](hthttps://github.com/devlse/Programmers/blob/main/Lv.1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js)
+- [서울에서 김서방 찾기](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.js)
 - [자연수 뒤집어 배열로 만들기](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [이상한 문자 만들기](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [수박수박수박수박수박수?](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js)
