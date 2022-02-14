@@ -34,6 +34,7 @@
 - [부족한 금액 계산하기](https://github.com/devlse/Programmers/blob/main/Lv.1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js)
 - [최대공약수와 최소공배수](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)
 - [정수 제곱근 판별]()
+- [직사각형 별찍기]()
 
 ## Lv.2
 
