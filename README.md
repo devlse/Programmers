@@ -35,6 +35,7 @@
 - [최대공약수와 최소공배수](https://github.com/devlse/Programmers/blob/main/Lv.1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)
 - [정수 제곱근 판별]()
 - [직사각형 별찍기]()
+- [실패율]()
 
 ## Lv.2
 
