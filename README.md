@@ -39,6 +39,7 @@
 - [x만큼 간격이 있는 n개의 숫자](https://github.com/devlse/Programmers/blob/main/Lv.1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.js)
 - [문자열 내 마음대로 정렬하기](https://github.com/devlse/Programmers/blob/main/Lv.1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js)
 - [숫자 문자열과 영단어]()
+- [소수 찾기]()
 
 ## Lv.2
 
